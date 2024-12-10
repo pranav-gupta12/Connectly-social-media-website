@@ -51,7 +51,7 @@ public class AppConfig {
 						"http://localhost:3000",
 						"http://localhost:4000",
 						"http://localhost:4200",
-						"https://zosh-social.vercel.app"
+						"https://connectly-social-media-website.vercel.app"
 						
 						));
 				cfg.setAllowedMethods(Collections.singletonList("*"));
